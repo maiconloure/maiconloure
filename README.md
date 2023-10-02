@@ -2,13 +2,8 @@
 
 <p><i>I'm 24 years old, from Santa Catarina, Brazil.</i></br>
 I'm fascinated by technology and how it can help people. I've been involved in technology all my life.</br>
-I have experience with Scrum and Kanban, Agile, analysing and gathering requirements, project architecture, documentation, code quality processes, code review, information security,
-
-I have knowledge of the following tools and platforms:<b> Git, GitHub, GitLab, Bitbucket, Confluence, Azure Boards, Trello, GCP, AWS, Cloudflare, CRM systems.</b>
-
+Some of the tools I use: <b>VS Code, Pycharm, IntelliJ IDEA, Postman, Insomnia, Figma
 </p>
-<p>Some of the tools I use: <b>VS Code, Pycharm, IntelliJ IDEA, Postman, Insomnia, Figma</b></p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maiconloure&label=Profile%20views&color=0e75b6&style=flat" alt="maiconloure" /> </p>
 
 - 🔭 I’m currently working at **Webhelp**
