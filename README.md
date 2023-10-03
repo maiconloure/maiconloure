@@ -31,4 +31,4 @@ Some of the tools I use: <b>VS Code, Pycharm, IntelliJ IDEA, Postman, Insomnia, 
 
 <p><img align="left" src="https://github-readme-stats-iota-seven-24.vercel.app/api/top-langs?username=maiconloure&theme=dark&show_icons=true&locale=en&layout=compact" alt="maiconloure"/></p>
 
-<p>&nbsp;<img align="center" src="github-readme-stats-iota-seven-24.vercel.app/api?username=maiconloure&theme=dark&show_icons=true&count_private=true&locale=en" alt="maiconloure" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-iota-seven-24.vercel.app/api?username=maiconloure&theme=dark&show_icons=true&count_private=true&locale=en" alt="maiconloure" /></p>
