@@ -4,13 +4,9 @@ Some of the tools I use: <b>VS Code, Pycharm, IntelliJ IDEA, Postman, Insomnia, 
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maiconloure&label=Profile%20views&color=0e75b6&style=flat" alt="maiconloure" /> </p>
 
-- 🔭 I’m currently working at **Webhelp**
-
-- 🌱 I’m currently learning more about **Kotlin, Rust and Go**
+- 🌱 I’m currently learning more about **C, C++, Java, Go, Rust...**
 
 - 👨‍💻 All of my projects are available at [maiconloure.com](maiconloure.com)
-
-- 📫 How to reach me **maiconloure@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
