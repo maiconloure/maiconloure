@@ -1,9 +1,4 @@
-
-### I don't know how it works, but I will learn how to build it ###
-
-***
-
-<p><i>I'm 25 years old, from Santa Catarina, Brazil.</i></br>
+<p><i>I'm 26 years old, from Santa Catarina, Brazil.</i></br>
 I'm fascinated by technology and how it can help people. I've been involved in technology all my life.</br>
 Some of the tools I use: <b>VS Code, Pycharm, IntelliJ IDEA, Postman, Insomnia, Figma
 </p>
