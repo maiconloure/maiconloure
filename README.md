@@ -1,5 +1,3 @@
-**Full-cycle developer | AI-driven engineering flow (spec → plan → build → test → review) | Security-first backend**
- 
 Full-cycle developer, self-taught (CS50/Harvard, GCP certified, AWS/Azure/DevOps fundamentals). I operate an end-to-end AI-driven engineering flow — requirements → specification → planning → implementation → tests → review — on real production systems, not side projects. Security-first mindset: zero trust, PII masking/encryption, immutable audit trails.
  
 ### Stack
